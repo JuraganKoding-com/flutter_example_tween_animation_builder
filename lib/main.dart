@@ -96,7 +96,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   bottom: 0,
                   child: Column(
                     children: [
-                      Text("color white to red"),
+                      Text("color blue to green"),
                       Slider.adaptive(
                         value: status,
                         onChanged: (value) {
